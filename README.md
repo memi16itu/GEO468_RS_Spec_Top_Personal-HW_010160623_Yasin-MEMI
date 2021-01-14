@@ -26,13 +26,13 @@ Band-4 (Red) and Band-5 (NIR) images of the images belonging to the above inform
 Using the codes, NDVI calculations were made with Red and NIR bands. It is aimed to analyze the images by using different coloring. The images obtained as a result of the processes are shown below.
 
 NDVI, NDVI-Vegetation and NDVI-Non-Vegetation images of 2016
-
+![ndvi_2016](ndvi_2016.png)
 ![2016](2016.png) 
 ![vegetation_2016](vegetation_2016.png) 
 ![non-vegetation_2016](non-vegetation_2016.png)
 
 NDVI, NDVI-Vegetation and NDVI-Non-Vegetation images of 2020
-
+![ndvi_2020](ndvi_2020.png)
 ![2020](2020.png) 
 ![vegetation_2020](vegetation_2020.png) 
 ![non-vegetation_2020](non-vegetation_2020.png)
