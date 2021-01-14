@@ -28,14 +28,12 @@ Using the codes, NDVI calculations were made with Red and NIR bands. It is aimed
 NDVI, NDVI-Vegetation and NDVI-Non-Vegetation images of 2016
 ![ndvi_2016](ndvi_2016.png)
 ![2016](2016.png) 
-![vegetation_2016](vegetation_2016.png) 
-![non-vegetation_2016](non-vegetation_2016.png)
+![vegetation_2016](vegetation_2016.png)  ![non-vegetation_2016](non-vegetation_2016.png)
 
 NDVI, NDVI-Vegetation and NDVI-Non-Vegetation images of 2020
 ![ndvi_2020](ndvi_2020.png)
 ![2020](2020.png) 
-![vegetation_2020](vegetation_2020.png) 
-![non-vegetation_2020](non-vegetation_2020.png)
+![vegetation_2020](vegetation_2020.png)  ![non-vegetation_2020](non-vegetation_2020.png)
 
 When the images were examined, it was observed that the vegetation cover slightly increased over time in areas known to be close to the water source.
 
