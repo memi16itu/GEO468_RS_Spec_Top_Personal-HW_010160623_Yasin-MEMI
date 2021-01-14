@@ -16,8 +16,9 @@ It uses NIR and red channels in the Normalized Vegetation Index (NDVI) formula a
 - numpy libraries used.
 
 The satellite name, date information and metadata links of the images used in the project are shared below.
-Landsat-8 (2020-08-01): https://earthexplorer.usgs.gov/scene/metadata/full/5e83d14f2fc39685/LC81730342020214LGN00/
-Landsat-8 (2016-08-22): https://earthexplorer.usgs.gov/scene/metadata/full/5e83d14f2fc39685/LC81730332016235LGN01/
+
+- Landsat-8 (2020-08-01): https://earthexplorer.usgs.gov/scene/metadata/full/5e83d14f2fc39685/LC81730342020214LGN00/
+- Landsat-8 (2016-08-22): https://earthexplorer.usgs.gov/scene/metadata/full/5e83d14f2fc39685/LC81730332016235LGN01/
 
 Band-4 (Red) and Band-5 (NIR) images of the images belonging to the above information were used in NDVI calculation.
 
@@ -25,10 +26,16 @@ Band-4 (Red) and Band-5 (NIR) images of the images belonging to the above inform
 Using the codes, NDVI calculations were made with Red and NIR bands. It is aimed to analyze the images by using different coloring. The images obtained as a result of the processes are shown below.
 
 NDVI, NDVI-Vegetation and NDVI-Non-Vegetation images of 2016
-![2016](2016.png) ![vegetation_2016](vegetation_2016.png) ![non-vegetation_2016](non-vegetation_2016.png)
+
+![2016](2016.png) 
+![vegetation_2016](vegetation_2016.png) 
+![non-vegetation_2016](non-vegetation_2016.png)
 
 NDVI, NDVI-Vegetation and NDVI-Non-Vegetation images of 2020
-![2020](2020.png) ![vegetation_2020](vegetation_2020.png) ![non-vegetation_2020](non-vegetation_2020.png)
+
+![2020](2020.png) 
+![vegetation_2020](vegetation_2020.png) 
+![non-vegetation_2020](non-vegetation_2020.png)
 
 When the images were examined, it was observed that the vegetation cover slightly increased over time in areas known to be close to the water source.
 
